@@ -1,0 +1,14 @@
+-- This module is the root of the ErdosDist49CanonicalLaneLean Lean proof package.
+import ErdosDist49CanonicalLaneLean.Basic
+import ErdosDist49CanonicalLaneLean.SourcePackage
+import ErdosDist49CanonicalLaneLean.SourceDependencies
+import ErdosDist49CanonicalLaneLean.Formalization
+import ErdosDist49CanonicalLaneLean.ReviewerBridge
+import ErdosDist49CanonicalLaneLean.TheoremStatement
+import ErdosDist49CanonicalLaneLean.MathlibObjects
+import ErdosDist49CanonicalLaneLean.AdmissibleClass
+import ErdosDist49CanonicalLaneLean.Projection
+import ErdosDist49CanonicalLaneLean.BridgeLemmas
+import ErdosDist49CanonicalLaneLean.GateLemmas
+import ErdosDist49CanonicalLaneLean.FinalTheorem
+import ErdosDist49CanonicalLaneLean.MathlibStatement
